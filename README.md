@@ -1,3 +1,5 @@
+在LLVM后端开发RISC-V矩阵扩展Intrinsic函数，使MLIR上面层可以调用对应的LLVM IR函数，实现降级。
+
 # The LLVM Compiler Infrastructure
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/llvm/llvm-project/badge)](https://securityscorecards.dev/viewer/?uri=github.com/llvm/llvm-project)
